@@ -1,0 +1,48 @@
+{
+  "channels": [
+    {
+      "name": "A",
+      "channel": 0,
+      "controller": 0,
+      "color": {
+        "red": 0.9,
+        "green": 0.1,
+        "blue": 0.1,
+        "alpha": 1.0,
+      },
+    },
+    {
+      "name": "B",
+      "channel": 1,
+      "controller": 0,
+      "color": {
+        "red": 0.9,
+        "green": 0.3,
+        "blue": 0.2,
+        "alpha": 1.0,
+      },
+    },
+    {
+      "name": "C",
+      "channel": 2,
+      "controller": 0,
+      "color": {
+        "red": 0.9,
+        "green": 0.5,
+        "blue": 0.3,
+        "alpha": 1.0,
+      },
+    },
+    {
+      "name": "D",
+      "channel": 3,
+      "controller": 0,
+      "color": {
+        "red": 0.9,
+        "green": 0.7,
+        "blue": 0.4,
+        "alpha": 1.0,
+      },
+    },
+  ],
+}
